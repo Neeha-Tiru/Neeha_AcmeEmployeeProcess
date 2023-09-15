@@ -1,6 +1,5 @@
 {
   "name": "GitRepoUpload AcmeEmployeeProcess",
-  "projectId": "cefcbdae-f4bc-4b88-8edd-c3d9c553a435",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -20,7 +19,6 @@
     "isAttended": false,
     "requiresUserInteraction": true,
     "supportsPersistence": false,
-    "workflowSerialization": "DataContract",
     "excludedLoggedData": [
       "Private:*",
       "*password*"
